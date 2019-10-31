@@ -160,7 +160,8 @@ python -m spacy download de
 Install [TreeTagger](http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/) under `errant/resources/tree-tagger-3.2` 
 and copy the German model `german-utf8.par` (download: 
 [german-par-linux-3.2-utf8.bin.gz](http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/data/german-par-linux-3.2-utf8.bin.gz)) 
-to `errant/resources/tree-tagger-3.2/lib/`.
+to `errant/resources/tree-tagger-3.2/lib/`. 
+
 
 Install treetaggerwrapper:
 
